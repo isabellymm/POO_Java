@@ -30,8 +30,8 @@ public class Celular {
   void imprimir() {
     System.out.println("Operadora: " + operadora);
     System.out.println("Marca: " + marca);
-    //System.out.println("Dualchip: " + dualChip);
-    // System.out.println("Sinal: " + temSinal());
+    System.out.println("Dualchip: " + dualChip);
+    System.out.println("Sinal: " + temSinal());
     System.out.println("Tamanho da Tela: " + tamanhoTela);
     System.out.println("");
 
